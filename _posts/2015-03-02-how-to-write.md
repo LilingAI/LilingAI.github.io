@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
-date: 2015-3-02
+title: 千磨万击还坚劲，任尔东西南北风
+date: 2020-01-17
 categories: blog
 tags: [标签一,标签二]
-description: 文章金句。
+description: 关于我。
 ---
 
-这里是博客正文。
+在磨砺中成长，在疾风中坚强，既生于此，必鸣于天！
 
 
 
